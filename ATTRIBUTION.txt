@@ -1,0 +1,12 @@
+# Attribution for Orca Image Dataset
+
+This dataset contains images of orcas used to develop a deep learning model for classifying orca sex (male/female). All images are sourced from public repositories or shared with proper permissions.
+
+Sources:
+1. [Norwegian Orca Survey] - [https://www.norwegianorca-id.no/browse-the-catalogue]
+2. [California Killer Whale Project] - [https://www.californiakillerwhaleproject.org/1997-killer-whale-catalog]
+3. [Center for Whale Research] - [https://www.whaleresearch.com/orcasurvey]
+
+The dataset is shared for **non-commercial, academic, and research use only**. All image rights remain with the original creators.
+
+Please contact s.ayodejiadeyemo@gmail.com for inquiries or requests regarding image use or licensing.
