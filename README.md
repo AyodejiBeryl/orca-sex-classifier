@@ -21,3 +21,7 @@ This project presents a deep learning pipeline for classifying the sex of orcas 
    ```bash
    git clone https://github.com/AyodejiBeryl/orca-sex-classifier.git
    cd orca-sex-classifier
+
+# Orca Sex Classifier 🐋
+
+[![HuggingFace Spaces](https://img.shields.io/badge/Live-HuggingFace%20App-blue?logo=huggingface)](https://huggingface.co/spaces/Ayoberyl/orca-sex-classifier)
